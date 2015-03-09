@@ -90,8 +90,7 @@ Partial Class Projects
         Me.lblCopyright.Name = "lblCopyright"
         Me.lblCopyright.Size = New System.Drawing.Size(554, 14)
         Me.lblCopyright.TabIndex = 2
-        Me.lblCopyright.Text = "This work by Matthew Consterdine is licensed under a Creative Commons Attribution" & _
-            "-NonCommercial-ShareAlike 3.0 Unported License."
+        Me.lblCopyright.Text = ""
         '
         'txtContents
         '
